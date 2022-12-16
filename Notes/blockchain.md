@@ -1,6 +1,8 @@
 # Introduction to Blockchain Technologies
 
-### DATE: 16/12
+----------
+
+## DATE: 16/12
 
 
 - Records informations
@@ -61,7 +63,7 @@ Smart Contracts
 - Double SPending - Sending a Bitcoin transaction to two different recipents at the same time is called double spending. This must be avoided at all cost.
 - Block - Transcations are combined into single Blocks and every 10mins a new block of 1MB size of block is created, Every block cantains 4 (TImestamp(Ref to prev block), Hash Value(Summary of transaction, Secure Hasing implies that editing a block without causing a change in the subsequent block is impossible), Peer to Peer (A highly interconnected network which shows interaction that happened between two peers))
 
-Working
+## Working of Blockchain
 1. Suppose two users in a blockchain network A and B wants to create a new transcation, A sends 5 BTC to B, They will request the transaction to be mined.
 2. The transcation can take place if all other participants in the network verify it as a genuine transaction
 3. The data of the transaction requires a hash value to process the transaction each participants will check certain information above the transaction such as A has sufficent funds to make the transaction.
