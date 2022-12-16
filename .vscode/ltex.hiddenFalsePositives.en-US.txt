@@ -1,2 +1,3 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBlock - Transactions are combined into single Blocks and every 10mins a new block of 1 MB size of block is created, Every block contains 4 (Timestamp(Ref to prev block), Hash Value(Summary of transaction, Secure Hasing implies that editing a block without causing a change in the subsequent block is impossible), Peer to Peer (A highly interconnected network which shows interaction that happened between two peers))\\E$"}
 {"rule":"DT_JJ_NO_NOUN","sentence":"^\\QEvery Block has a unique has value which acts like a signature.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSH56 - Algorithm Smart Contracts Genesis Block - First Block | No prev block\\E$"}
