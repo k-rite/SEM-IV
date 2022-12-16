@@ -1,9 +1,9 @@
 # Java Enterprise Edition
 
-
+## Date /12
 ----------
 
-# DATE 14/12
+## DATE 14/12
 DB / Web Server
 
 Java SE-EE(Server Side)-ME
@@ -29,5 +29,3 @@ Java SE-EE(Server Side)-ME
 Servlet - JSP needs deployment (containers)
 
 ### [Java2s](http://www.java2s.com/)
-
-

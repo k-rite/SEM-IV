@@ -1,5 +1,8 @@
 # Introduction to Blockchain Technologies
 
+## DATE: /12
+
+
 ----------
 
 ## DATE: 16/12
