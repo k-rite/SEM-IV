@@ -1,5 +1,5 @@
 # Sigmund Freud
-- Diff good work
+- Multiple good contrib
 - Victorian Era 
 - Dream Analysis Book
 - Conscious 
@@ -18,4 +18,9 @@
         - Develop(given by env), Morality, based on reality
         - (like final waking up after snoozing), have to.
         - Event planning behavior
-        - Saving Eatables for later
+        - Saving Eatables for later 
+
+
+Nature vs Nurture
+- Nature is genetics
+- Nurture is env
