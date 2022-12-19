@@ -13,7 +13,7 @@
         - Spontaneous behavior
     - Ego 
         - How to execute 
-        - 
+        
     - Super Ego 
         - Develop(given by env), Morality, based on reality
         - (like final waking up after snoozing), have to.
@@ -23,4 +23,6 @@
 
 Nature vs Nurture
 - Nature is genetics
+    - Genetic, place
 - Nurture is env
+    - surround, parenthood
