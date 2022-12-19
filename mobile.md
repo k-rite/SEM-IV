@@ -35,7 +35,7 @@
 
 
 ## What is Android?
-- Android is a software stack for mobile which includes OS, MIddleware and Key Applications.
+- Android is a software stack for mobile which includes OS, Middleware and Key Applications.
 - Provides APIs, SDKs to build using Android Platform(JAVA(Dalvik) /Kotlin), Node js(C#)  
 
 ## Features
