@@ -56,4 +56,4 @@
 ![Architecture](https://elinux.org/images/c/c2/Android-system-architecture.jpg)
 
 
- 
+
