@@ -26,14 +26,19 @@
       - Free type
         - Bitmap vector font rendering
       - Sqlite Lib
-    - Android Runtime
+  ## Android Runtime
       - Dalvik Virtual Machine
         - Register based
         - Executable files in Dalvik
         - Multiple VM can run at same time
         - 1 DVM instance for 1 Applications
         - Dx tool in SDK can transform compiled java class into .dex format
-        - 
+      - DVM vs JVM
+        - DVM
+          - Google, Dalvik executable
+        - JVM
+          - By oracle
+        
 ----------
 ## Date 16/12
 
