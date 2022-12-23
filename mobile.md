@@ -4,12 +4,36 @@
 ----------
 
 ## Date 23/12
-### Linux Kernal
+## Linux Kernal
 - Security, Memory management, Process Management
 - Acts as abstraction Layer between Hardware and rest of software stack.
 
-
-
+## Libraries
+- runs in Sys background
+- Uses C/C+ lang
+  ### 4 types of Libraries
+    - Core lib
+      - System C lib 
+      - Media Lib : MPEG4,H.264,MP3,AAC,JPG,programming
+      - Surface Manager
+        - 2D 3D layers
+      - Webkit
+        - Web browser in Mobile
+      - SGL
+        - 2D graphics engine
+      - 3D Lib
+        - OpenGL ES 1.0 
+      - Free type
+        - Bitmap vector font rendering
+      - Sqlite Lib
+    - Android Runtime
+      - Dalvik Virtual Machine
+        - Register based
+        - Executable files in Dalvik
+        - Multiple VM can run at same time
+        - 1 DVM instance for 1 Applications
+        - Dx tool in SDK can transform compiled java class into .dex format
+        - 
 ----------
 ## Date 16/12
 
