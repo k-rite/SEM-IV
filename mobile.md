@@ -3,10 +3,18 @@
 [History](#android-history) [Contents](#contents) [Exam Guide](#exam-guide) [Features](#features) [Architecture](#android-architecture)
 ----------
 
+## Date 23/12
+### Linux Kernal
+- Security, Memory management, Process Management
+- Acts as abstraction Layer between Hardware and rest of software stack.
+
+
+
+----------
 ## Date 16/12
 
-#### Exam Guide
-##### 100 Marks
+### Exam Guide
+#### 100 Marks
     - Internal (40 Marks)
         - Class test (10 Marks) (Feb Mid)
         - Viva - Project(20 Marks)
