@@ -13,8 +13,8 @@
 ----------
 ## Date 16/12
 
-#### Exam Guide
-##### 100 Marks
+### Exam Guide
+#### 100 Marks
     - Internal (40 Marks)
         - Class test (10 Marks) (Feb Mid)
         - Viva - Project(20 Marks)
