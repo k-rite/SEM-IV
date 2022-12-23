@@ -1,6 +1,95 @@
 # Introduction to Blockchain Technologies
 
-## DATE: /12
+## DATE: 23/12
+
+## Symmectric and Asymetric Encryption
+
+### Asymetric Encryption
+![alt](https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Symmetric-Encryption.png)
+
+- A sends message to B using B's public Key
+    - A signs the message, A's private key
+- Encrypted email to B
+- Blockchain
+    - Verification of A's transaction
+    - b decrypts the message using B's private key
+- B recieves the message
+
+A wants to send B some bitcoin,
+First A needs to get B's Public address, A then signs the message with his private key to ensure the transaction has been mmodified
+the transaction is then encrypted and verified.
+B would then decrypt the message using B's private key and access the message
+A public key allows you to recieve crpto currency transactions, It is a cryptographic code that is paired to private key.
+While anyone can send transaction to the public key whereas the private key is used to unlock the transaction and proves that 
+you are the owner of the message that recieved the transaction
+
+
+## Principles of Blockchain
+1. Network integrity
+    - The Basic Principle:
+        - Since the blockchain is spread over thousands of computers, It is networked and the participants in the blockchian economy, Maintain integrity as every interaction is indelibly(Can't be deleted) recorded
+    - The Problem Solved
+        - Over the internet we need intermediate parties to solve the integrity problem, Thou you can share data,files,photos etc easily over the internet, The same doesnt hold for the money because theres a risk of double spending.
+    - Breakthrough
+        - The BlockChains offers consensus mechanism to solve the double spending problem through the timestamping of the first transaction and all the transactions thereon. In addition the pow mechanism to ensure integrity over the blockchain.
+    - Implications
+        - For the first time ever, We have a platform that ensures trust in the transaction and recorded information, No matter how the other parties acts.
+2. Distributed Panel
+    - The Basic Principal:
+        - No one person or organization has outsized(large) control over the whole or access to an outsized amount of data.
+    - Problem to be Solved:
+        - Big Orgsanisation or Centeral powers have been proven time and again that they can use the power of data without the users knowledge and implement large scale changes without the users consent
+    - Breakthrough
+        - Blockchian means mass collab at it's best, The user has the power over their data and the level of participation. Every transaction is broadcasted to everyone. Nothing is with the centeral third party or central server.
+    - Implication
+        - A platform to enable distributed models of wealth creation, A p2p collab to transfer real powers to the citizens.
+
+3. Value as incentive
+    - Basic Principle
+        - A blockchain is designed to incentivise it's users and people who wants to hold on to these incentives 
+    - Problem to be solved
+        - Improper use of data because of invariable incentives recieved over the dot com era, People who recieve the incentive do not worry weather the data gets leaked beacause it the customer who ultimately suffers 
+    - Breakthough
+        - The extreme resouces requirement and the reward mechanism ensure that participants to the right thing.
+    - Implications
+        - The internet era do not punish the offenders in any way but on Blockchain Social Media they can lose the reputation score for bad behaviour
+4. Security
+    - Basic Priciple
+        - The use of crptography is efficient and provides authenticity and confidential 
+    - Problem to be solved
+        - Hacking, Identity theft, fraud, phising, spam. The current reliance on strong passwords because the service provider is not responsible for our safety. In the next stage of digital revolution involves communicating money directy between multiple parties then communication need to be hack proof
+    - Breakthrough
+        - Public and private key infrastructure, The Blockshain runs on a very well know and established SH256 algorithm.
+    - Implication 
+        - A secure design that is transparent and protect what happens to our data. 
+5. Privacy 
+    - Basic Principal 
+        - People get to be in complete control of their data.
+    - Problem to be solved
+        - Collecting and using our data without our understanding and permission, It doesnt ensure protection from hackers
+    - Breakthrough
+        - On a Blockchain you need not provide an identity, Since the software is open source it is unnecessary to store the data and use it for marketting 
+    - Implication
+        - Data is private and you own it
+6. Rights Reserved
+    - Basic Principle
+        - Ownership rights are transparent and enforceable. Individual freedoms are recognised and respected.
+    - Problem to be Solved
+        - Authorities or software blocking privacy and online rights, Intermediate parties and the cost attached 
+    - Breakthrough
+        - Smart Contract which allows for transcation to proceed only when pre defined benchmarks are have been reached and agreed upon on all parties.
+    - Implication
+        - Clarity, Enforement and correct usage of assets rights on the Blockchain economy.
+7. Inclusion
+    - Basic Principle
+        - The economy works best where it works for everyone which lowers the barriers for participants 
+    - Problem to be Solved
+        - A large population on earth is still exlucded from the internet and the financial system, hence need economic opportunities.
+    - Breakthrough
+        - Blockchain works over the internet but they can work without it too, There is no bank accounts,proof of citizenship,no stable currency is required
+    - Implication
+        - The foundation of prosperity is inclusion and Blockchain helps it
+
 
 
 ----------
