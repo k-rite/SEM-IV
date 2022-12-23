@@ -27,26 +27,26 @@ you are the owner of the message that recieved the transaction
 ## Principles of Blockchain
 1. Network integrity
     - The Basic Principle:
-        - Since the blockchain is spread over thousands of computers, It is networked and the participants in the blockchian economy, Maintain integrity as every interaction is indelibly(Can't be deleted) recorded
+        - Since the blockchain is spread over thousands of computers, It is networked and the participants in the blockchain economy, Maintain integrity as every interaction is indelibly(Can't be deleted) recorded
     - The Problem Solved
-        - Over the internet we need intermediate parties to solve the integrity problem, Thou you can share data,files,photos etc easily over the internet, The same doesnt hold for the money because theres a risk of double spending.
+        - Over the internet we need intermediate parties to solve the integrity problem, Thou you can share data, files, photos etc. easily over the internet, The same doesn't hold for the money because there's a risk of double spending.
     - Breakthrough
-        - The BlockChains offers consensus mechanism to solve the double spending problem through the timestamping of the first transaction and all the transactions thereon. In addition the pow mechanism to ensure integrity over the blockchain.
+        - The BlockChains offers consensus mechanism to solve the double spending problem through the timestamping of the first transaction and all the transactions thereon. In addition, the pow mechanism to ensure integrity over the blockchain.
     - Implications
         - For the first time ever, We have a platform that ensures trust in the transaction and recorded information, No matter how the other parties acts.
 2. Distributed Panel
-    - The Basic Principal:
+    - Basic principle:
         - No one person or organization has outsized(large) control over the whole or access to an outsized amount of data.
     - Problem to be Solved:
-        - Big Orgsanisation or Centeral powers have been proven time and again that they can use the power of data without the users knowledge and implement large scale changes without the users consent
+        - Big Organization or Central powers have been proven time and again that they can use the power of data without the users knowledge and implement large scale changes without the users consent
     - Breakthrough
-        - Blockchian means mass collab at it's best, The user has the power over their data and the level of participation. Every transaction is broadcasted to everyone. Nothing is with the centeral third party or central server.
+        - Blockchain means mass collab at its best, The user has the power over their data and the level of participation. Every transaction is broadcasted to everyone. Nothing is with the Central third party or central server.
     - Implication
         - A platform to enable distributed models of wealth creation, A p2p collab to transfer real powers to the citizens.
 
 3. Value as incentive
     - Basic Principle
-        - A blockchain is designed to incentivise it's users and people who wants to hold on to these incentives 
+        - A blockchain is designed to incentivize its users and people who wants to hold on to these incentives 
     - Problem to be solved
         - Improper use of data because of invariable incentives recieved over the dot com era, People who recieve the incentive do not worry weather the data gets leaked beacause it the customer who ultimately suffers 
     - Breakthough
