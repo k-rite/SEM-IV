@@ -4,17 +4,18 @@
 ----------
 
 ## Date 23/12
-## Linux Kernal
+## Linux Kernel
 - Security, Memory management, Process Management
 - Acts as abstraction Layer between Hardware and rest of software stack.
 
 ## Libraries
+
 - runs in Sys background
-- Uses C/C+ lang
+- Uses C/C+ Lang
   ### 4 types of Libraries
     - Core lib
       - System C lib 
-      - Media Lib : MPEG4,H.264,MP3,AAC,JPG,programming
+      - Media Lib : MPEG4,H.264,MP3,AAC, JPG,programming
       - Surface Manager
         - 2D 3D layers
       - Webkit
@@ -25,7 +26,7 @@
         - OpenGL ES 1.0 
       - Free type
         - Bitmap vector font rendering
-      - Sqlite Lib
+      - SQLite Lib
   ## Android Runtime
       - Dalvik Virtual Machine
         - Register based
@@ -38,7 +39,11 @@
           - Google, Dalvik executable
         - JVM
           - By oracle
+          
         
+![Activity LifeCycle](https://i2.wp.com/androhub.com/wp-content/uploads/2015/04/activity_lifecycle.png?)
+
+
 ----------
 ## Date 16/12
 
