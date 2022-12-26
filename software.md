@@ -10,3 +10,4 @@
     - Requirements (Takes max time)
     - Availability of other teams
     - Improper communication
+    - Deadline scheduling
