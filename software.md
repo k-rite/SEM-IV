@@ -1,6 +1,6 @@
 # Software Project and Practices
 
-# Date: 27/12
+## Date: 27/12
 - Scope 
     - Objectives, Goals & Milestone (OKR)
 - Problems
