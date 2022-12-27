@@ -95,7 +95,7 @@ you are the owner of the message that received the transaction
 ----------
 
 ## DATE: 16/12
- 
+
 - Records information
 - Distributed Ledger
 - Decentralized P2P
