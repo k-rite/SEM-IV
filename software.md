@@ -1,7 +1,8 @@
 # Software Project and Practices
 
 # Date: 27/12
-
+- Scope
+    - Objectives And Goals (OKR)
 
 ## Data: 26/12
 
