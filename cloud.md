@@ -12,3 +12,5 @@
     - Reuse Dissipated heat
 
 ![Generation of PUE](http://www.nextplatform.com/wp-content/uploads/2016/09/microsoft-quincy-evolution.jpg)
+
+![Datacenter Generation](https://mspoweruser.com/wp-content/uploads/2020/11/Microsoft-data-centers.jpg)
