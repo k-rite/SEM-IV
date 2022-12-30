@@ -1,5 +1,37 @@
 # Introduction to Blockchain Technologies
 
+## Date: 30/12
+## Centralized Ledger and Distributed Ledger
+![Image](https://i.imgur.com/ocYZMge.jpg)
+### Centralized Ledger
+- Ledger is a book of record keeping, All the financial transaction of the organization.
+- A Central Ledger also known as General ledger,
+- It contains all the accounts for recording transactions related to company assets, liabilities, revenue and expenses.
+- Every financial transaction needs a ledger
+- Nowadays computerized ledger came into existence that is ERP
+- The general ledger works as a central repo for accounting data, transferred from all sub-Ledgers, cash management, fixed assets, purchasing and projects.
+- The general ledger is the backbone of any accounting system which holds financial and non-financial data for an organization.
+- The collection of all account is known as general ledger.
+- Example: Bank has total control over which transactions are posted on the ledger because it is centralized asset ledger which list all transactions that is controlled by a single entity such as a bank statement.
+- The Centralized ledger can be risky, if the entity in charge has malicious intent, It can damage to its clients.
+- Another disadvantage of the Centralized ledger is the controlling entity can shut down without notice and transaction will no longer be processed.
+### Distributed Ledger
+- A distributed ledger is an assets' database that can be shared across the network of multiple sites, geography or institutions.
+- All participants in the network can have their own identical copy of the Ledger.
+- Any changes to the ledger are reflected in all copies within seconds or minutes.
+- The asset can be financial, legal, physical or electronic.
+- The security and accuracy of all the assets is stored in the ledger are maintained cryptographically.
+- Two parties are able to make an exchange without the oversight or intervention of 3rd party
+- Users are in control of their information and transaction.
+- Data is complete, consistent, timely, accurate and widely available
+- Due to decentralized network, Blockchain does not have a Central point of failure and is able to withstand malicious attacks.
+- Users can trust that transactions will be executed exactly as the protocol commands, Removing the need for a trusted 3rd party
+
+
+
+
+----------
+
 ## DATE: 23/12
 
 ## Symmetric and Asymmetric Encryption
