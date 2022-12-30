@@ -27,9 +27,11 @@
 - Due to decentralized network, Blockchain does not have a Central point of failure and is able to withstand malicious attacks.
 - Users can trust that transactions will be executed exactly as the protocol commands, Removing the need for a trusted 3rd party
 
-
-
-
+## Permissionless and Permissioned Blockchain
+![Permission and Permissionless](https://www.foley.com/en/insights/publications/2021/08/-/media/images/insights/publications/2021/08/22mc35029-blockchain-graphic--permissions06.png)
+- Permissionless blockchain allows any user to anonymously join the Blockchain network and do not restrict the rights of the nodes on the Blockchain network.
+- In permissioned Blockchain Restrict access to the network to certain nodes, and it may also restrict the rights of those nodes on that network.
+- The identities of the users of a permissioned blockchain are known to the other users of that permissioned blockchain.
 ----------
 
 ## DATE: 23/12
