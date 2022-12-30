@@ -2,7 +2,7 @@
 
 ## Date: 30/12
 ## Centralized Ledger and Distributed Ledger
-![Image](https://i.imgur.com/ocYZMge.jpg)
+![Centeralised-Distributed](https://i.imgur.com/ocYZMge.jpg)
 ### Centralized Ledger
 - Ledger is a book of record keeping, All the financial transaction of the organization.
 - A Central Ledger also known as General ledger,
@@ -32,6 +32,86 @@
 - Permissionless blockchain allows any user to anonymously join the Blockchain network and do not restrict the rights of the nodes on the Blockchain network.
 - In permissioned Blockchain Restrict access to the network to certain nodes, and it may also restrict the rights of those nodes on that network.
 - The identities of the users of a permissioned blockchain are known to the other users of that permissioned blockchain.
+
+## Types of Blockchain
+### Public Blockchain
+- Public Blockchain are permissionless in nature, allows anyone to join and are completely decentralized.
+- They allow all nodes on the blockchain to have equal rights to access the blockchain, create new blocks of data and validates blocks of data.
+- It is the non-restricted form of ledger in which each peer has a copy, The user has access to historical and contemprory records and the ability to perform mining operations.
+- The complex computations must be performed to verify transactions and add them to the ledger.
+- In this Blockchain, No transaction maybe altered.
+#### Advantages
+- Trustable:
+    - The nodes within this Blockchain do not need to know or trust each other because the pow procedure ensure no fraudulent transaction.
+- Secure
+    - It can have as many participants making it a secure network
+#### Disadvantages
+- Lower tps:
+    - The number of transactions per second in the public blockchain is extremely low. Because the network is too large, it takes time to verify a transaction and do pow.
+- Scalability
+- Here the transactions are processed and completed slowly, This humps scalability. Because the more we try to expand the network size and slower it will become.
+
+#### Usage of Blockchain
+- Voting
+- Fund raising
+
+### Private Blockchain
+- Private Blockchain are referred to as permissioned Blockchain controlled by a single organisation.
+- The centeral authority determines who can be a node
+- It also grant each node with equal rights to perform function.
+- They're often a small network within an organization
+
+#### Advantages
+- Speed
+    - The transaction here are faster, Since the private network has smaller number of nodes which shortens the time to verify a  transaction.
+- Scalability
+    - The private blockchain can be scalable as the companies allow to easily raise or decrease the network size.
+
+#### Disadvantages
+- Centralization
+    - They require a Central identity and access management system to function. This system provides full administrative and monitoring access to capabilities.
+- Lower security
+    - The network has few nodes, so it is more harm to a security compromise
+
+#### Usage
+- Supply chain management
+- asset ownership
+
+### Hybrid Blockchain
+- They are controlled by a single organization but with a level of oversight performed by the public blockchain which is required to perform certain transactions' validation 
+- It enables enterprises to contract a private permission based system alongside a public permissionless system allowing them to choose who has access to certain blockchain data and what data is made public.
+- Transaction are not made public easily, but they can be validated by granting access to smart contracts.
+#### Advantages
+- Secure
+    - This Blockchain operated within a closed environment preventing outside hackers for 50% attack on the network.
+- Cost-effective
+    - Transaction are inexpensive and scalable better than public blockchain.
+
+#### Disadvantages
+- Lack of transparency
+    - Since the information can be hidden, This type of blockchain isn't completely transparent.
+
+#### Usage
+- Real Estate
+- Retail Management
+
+### Consortium Blockchain
+- They are permissioned Blockchains governed by a group of organization rather than one entity.
+- It involves various organizational members working together on a decentralized network.
+- Pre-determined nodes control the consensus methods
+- It has a validator node for initiating, receiving and validation transactions.
+- Transactions can be initiated or received by a member node
+#### Advantages
+- Secure
+    - This blockchain is more secure, scalable and efficient than a public blockchain
+
+#### Disadvantages
+- Lack of transparency
+    - This blockchain has lower degree of transparency if the member node is deeply linked and if it's attacked it can the whole network inoperable.
+#### Usage
+- Research
+- Food tracking
+
 ----------
 
 ## DATE: 23/12
@@ -39,7 +119,7 @@
 ## Symmetric and Asymmetric Encryption
 
 ### Asymmetric Encryption
-![alt](https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Symmetric-Encryption.png)
+![Symmetric Key](https://www.ssl2buy.com/wiki/wp-content/uploads/2015/12/Symmetric-Encryption.png)
 
 - A sends message to B using B's public Key
     - A signs the message, A's private key
