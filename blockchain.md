@@ -54,6 +54,7 @@
 #### Usage of Blockchain
 - Voting
 - Fund raising
+----------
 
 ### Private Blockchain
 - Private Blockchain are referred to as permissioned Blockchain controlled by a single organisation.
@@ -76,6 +77,7 @@
 #### Usage
 - Supply chain management
 - asset ownership
+----------
 
 ### Hybrid Blockchain
 - They are controlled by a single organization but with a level of oversight performed by the public blockchain which is required to perform certain transactions' validation 
@@ -112,7 +114,47 @@
 #### Usage
 - Research
 - Food tracking
+----------
 
+
+![Exercise](https://i.imgur.com/8jmfK5A.jpg)
+### Answers:
+1. ledger
+2. Encryption
+3. Private Blockchain
+4. shared 
+5. Smart Contracts
+6. Trust
+7. Public
+8. Shared Climate - Business
+9. blocks, hash cryptographically
+10. Ethereum
+11. Digital signature
+12. Permissionless 
+13. Blocks, timestamps
+14. chronologically 
+15. Decentralized
+16. Mining 
+17. Proof of work
+18. hashing
+
+
+
+# Permissionless vs Permissioned
+- Permisionless:
+    - It is a blockchain that requires no permission join and interact
+    - Transparent and immutable network
+    - Slow Transaction speed 
+    - Trustless Transaction
+    - Limited scalable
+    - Example: voting, digital identity
+- Permissioned
+    - It is a permission in Blockchain that requires permission to join and participate in the network
+    - Private and Authenticated Process
+    - High Transaction speed and good performance
+    - Governing authorities provide certain level of trust.
+    - Highly scalable
+    - Example: Supply chain management and food tracking
 ----------
 
 ## DATE: 23/12
