@@ -94,6 +94,7 @@
 #### Usage
 - Real Estate
 - Retail Management
+----------
 
 ### Consortium Blockchain
 - They are permissioned Blockchains governed by a group of organization rather than one entity.
