@@ -7,12 +7,12 @@
     - PreConscious
     - Unconscious
 - Personality
-    - Id 
+    - ID 
         - in it, based on pleasure, requires Ego
         - Likes no pain, Eating sibling ice cream
         - Spontaneous behavior
     - Ego 
-        - How to execute 
+        - How to execute | Reality based
         
     - Super Ego 
         - Develop(given by env), Morality, based on reality
