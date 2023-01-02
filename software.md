@@ -22,4 +22,12 @@
     - Role allocation
     - Wide Tech Stack
     - Emotional intelligence
-    - 
+
+- Project Life Cycle
+![Project lifecycle](https://www.guru99.com/images/projmgmt.png)
+    1. Definition
+    2. Initiation
+    3. Planning
+    4. execution
+    5. Monitoring
+    6. Closure
