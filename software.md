@@ -29,5 +29,5 @@
     2. Initiation
     3. Planning
     4. execution
-    5. Monitoring
+    5. Monitoring 
     6. Closure
