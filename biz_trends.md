@@ -30,3 +30,11 @@
 1. Development of self contained components
 2. Delivering these components as services
 ---
+
+
+- what can be observed
+- Why it has to be observed
+- How frequently this has to be observed 
+- From where this will be observed
+- How will this will be observed
+- who is the beneficiary
